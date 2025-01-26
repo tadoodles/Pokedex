@@ -1,0 +1,45 @@
+Pokedex > Welcome to the Pokedex!
+Usage:
+exit: Exit the Pokedex
+help: Displays a help message
+map: Get the next page of locations
+map: Get the previous page of locations
+explore: Explore a chosen location
+catch: Attempt to catch a pokemon
+inspect: Check stats of caught pokemon
+pokedex: Check pokedex
+Pokedex > Your Pokedex:
+Pokedex > Throwing a Pokeball at rattata...
+rattata was caught!
+You may now inspect it with the inspect command.
+Pokedex > Your Pokedex:
+ - rattata
+Pokedex > Throwing a Pokeball at eevee...
+eevee was caught!
+You may now inspect it with the inspect command.
+Pokedex > Throwing a Pokeball at flareon...
+flareon escaped!
+Pokedex > Throwing a Pokeball at flareon...
+flareon escaped!
+Pokedex > Throwing a Pokeball at flareon...
+flareon escaped!
+Pokedex > Throwing a Pokeball at caterpie...
+caterpie was caught!
+You may now inspect it with the inspect command.
+Pokedex > Your Pokedex:
+ - caterpie
+ - rattata
+ - eevee
+Pokedex > Name: eevee
+Height: 3
+Weight: 65
+Stats:
+  -hp: 55
+  -attack: 55
+  -defense: 50
+  -special-attack: 45
+  -special-defense: 65
+  -speed: 55
+Types:
+  - normal
+Pokedex > Closing the Pokedex... Goodbye!
